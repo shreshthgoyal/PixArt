@@ -1,6 +1,6 @@
 # PixArt - Pixel Art Cross-Platform Desktop App
 									
-			   ![Pixart SS](https://ibb.co/rGhB3fx)
+![pixart_screenshot](https://i.ibb.co/frfKS3N/pixart.jpg)
 
 PixArt is a Golang-based desktop GUI application that enables users to create and save pixelated art. It utilizes the Fyne toolkit and offers users the ability to generate, save, and modify PNG-format images. Additionally, the application features swatches and a Colorpicker as supplementary tools. Currently, only pixel brushtype is supported, but the underlying architecture can be extended to support other brush types.
 
